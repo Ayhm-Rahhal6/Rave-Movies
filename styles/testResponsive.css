@@ -181,3 +181,13 @@ i{
         top: 80px;
     }
 }
+
+
+/*footer*/
+
+.footer-section{
+    background-color:var(--background-color);
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid var(--main-color);
+ }
